@@ -5,10 +5,6 @@
       "schedule": "0 5 * * *"
     },
     {
-      "path": "/api/tasks/cron",
-      "schedule": "0 10 * * *"
-    },
-    {
       "path": "/api/tasks/cleanup",
       "schedule": "0 0 * * *"
     }
