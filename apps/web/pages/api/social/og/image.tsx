@@ -53,8 +53,8 @@ export default async function handler(req: NextApiRequest) {
     interFontMedium,
   ]);
   const ogConfig = {
-    width: 1200,
-    height: 630,
+    width: 720,
+    height: 350,
     fonts: [
       { name: "inter", data: interFontData, weight: 400 },
       { name: "inter", data: interFontMediumData, weight: 500 },
